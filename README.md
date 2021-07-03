@@ -1,5 +1,5 @@
 pip install manzpy
 
-import manzpy
+=>import manzpy
 
-manzpy.quicktext()
+=>manzpy.quicktext()
